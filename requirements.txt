@@ -1,0 +1,5 @@
+wheel
+colorama
+playsound==1.2.2
+tqdm
+pyfiglet
